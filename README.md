@@ -241,13 +241,15 @@ Implemented Field Parameters to switch between five analytical measures:
 |---|---|
 | 📊 Power BI PBIX File |  https://drive.google.com/file/d/1TePx_3NpdI2cPC0cYdt-g9qSDyW9GXFP/view
 | 📂 Dataset | [Kaggle Dataset](https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023) |
-| 🎥 Video Demonstration | [Watch Project Video](YOUR_GOOGLE_DRIVE_VIDEO_LINK) |
+| 🎥 Video Demonstration | https://drive.google.com/file/d/1nLwEDAnVBZW7RD2jm1laS_JBu07a4of7/view?usp=drive_link
 
 ## 🎥 Video Demonstration
 
 Watch the complete project walkthrough to explore the dashboard design, analytical insights, and interactive features.
 
-**▶️ [Watch Full Project Demonstration](YOUR_GOOGLE_DRIVE_VIDEO_LINK)**
+**▶️ [Watch Full Project Demonstration]
+
+https://drive.google.com/file/d/1nLwEDAnVBZW7RD2jm1laS_JBu07a4of7/view?usp=drive_link
 
 The demonstration covers:
 - Overview and KPI analysis.
