@@ -239,7 +239,7 @@ Implemented Field Parameters to switch between five analytical measures:
 
 | Resource | Access |
 |---|---|
-| 📊 Power BI PBIX File | [Download Dashboard](YOUR_GOOGLE_DRIVE_PBIX_LINK) |
+| 📊 Power BI PBIX File |  https://drive.google.com/file/d/1TePx_3NpdI2cPC0cYdt-g9qSDyW9GXFP/view
 | 📂 Dataset | [Kaggle Dataset](https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023) |
 | 🎥 Video Demonstration | [Watch Project Video](YOUR_GOOGLE_DRIVE_VIDEO_LINK) |
 
@@ -285,7 +285,6 @@ Aspiring Data Analyst | Power BI | SQL | Python | Excel
 
 🔗 **GitHub:** [simrangohel70-lab](https://github.com/simrangohel70-lab)
 
-📧 **Email:** simrangohel70@gmail.com
 
 ---
 
